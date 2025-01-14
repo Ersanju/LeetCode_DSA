@@ -1,3 +1,5 @@
+// Question: https://neetcode.io/problems/duplicate-integer
+
 package array_and_hashing;
 
 import java.util.Arrays;
